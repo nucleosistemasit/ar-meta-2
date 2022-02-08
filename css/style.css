@@ -1,0 +1,28 @@
+.h-10 {
+    height: 10%;
+}
+
+.h-90 {
+    height: 90%;
+}
+
+.sound {
+    z-index: 999;
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    width: 200px;
+    height: 50px;
+    font-size: 15pt;
+    color: white;
+    top: calc(100% - 110px);
+    text-align: center;
+}
+
+#arjsDebugUIContainer {
+    display: none !important;
+}
+
+.a-enter-vr {
+    display: none !important;
+}
